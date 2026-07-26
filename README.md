@@ -57,7 +57,7 @@ A full-stack developer passionate about building modern web applications.
 
 Connect:
 - GitHub: https://github.com/sumitmali001/
-- LinkedIn: [Your LinkedIn Link](https://www.linkedin.com/in/sumitmali/)
+- LinkedIn: https://www.linkedin.com/in/sumitmali/
 - Email: sumitmali7799@gmail.com
 
 ⭐ If you like this project, consider giving it a star!
