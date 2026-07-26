@@ -134,7 +134,7 @@ const Dashboard = () => {
       <div className="max-w-7xl mx-auto px-4 py-8">
         {/* Mobile Welcome */}
         <p className="text-2xl font-semibold mb-6 bg-linear-to-r from-[#00b4d8] to-[#00b4d8] bg-clip-text text-transparent sm:hidden">
-          Hi, Sumit Mali
+          Hi, {user?.name || "User"}
         </p>
 
         {/* Action Buttons */}
