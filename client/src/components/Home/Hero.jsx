@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from "react-router-dom";
+import heroBg from "../../assets/hero-background-image.jpg";
 import { useSelector } from "react-redux";
 
 const Hero = () => {
@@ -33,7 +34,12 @@ const Hero = () => {
             `}
         </style>
 
-        <header className='bg-black text-white flex flex-col items-center bg-[url("https://assets.prebuiltui.com/images/components/hero-section/hero-background-image.png")] bg-cover bg-center bg-no-repeat pb-30'>
+        <header
+        className="bg-black text-white flex flex-col items-center bg-cover bg-center bg-no-repeat pb-30"
+        style={{
+            backgroundImage: `url(${heroBg})`,
+        }}
+        >
         <nav className="flex flex-col items-center w-full">
         <div className="flex items-center justify-between p-4 md:px-16 lg:px-24 xl:px-32 md:py-4 w-full">
 
