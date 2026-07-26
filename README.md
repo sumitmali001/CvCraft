@@ -1,5 +1,7 @@
 # CV Craft 🚀
 
+Live Demo Link : https://cv-craft-taupe.vercel.app/
+
 ## AI-Powered Resume Builder
 
 CV Craft is a modern resume-building platform that helps users create professional, ATS-friendly resumes with AI-powered optimization, customizable templates, and easy sharing options.
