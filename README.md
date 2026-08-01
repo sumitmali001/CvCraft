@@ -1,6 +1,6 @@
 # CV Craft 🚀
 
-Live Demo Link : [https://cv-craft-taupe.vercel.app/](https://cvcraft-dev.vercel.app/)
+Live Demo Link : https://cvcraft-dev.vercel.app/
 
 ## AI-Powered Resume Builder
 
